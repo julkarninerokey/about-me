@@ -1,6 +1,3 @@
-Certainly! Let's enhance the content, layout, and visuals to create an eye-catching and rich GitHub README that serves as your CV.
-
-```markdown
 # [![Your Name](https://via.placeholder.com/150)](https://github.com/YourUsername)
 ## Hi there, I'm [Your Name] 👋
 
@@ -109,6 +106,3 @@ Feel free to reach out for collaboration or project inquiries.
 ---
 
 Thank you for visiting my GitHub profile! Let's create something amazing together.
-```
-
-This format uses more visuals and organized sections to create a rich and engaging README. It serves both as an introduction to you and as a showcase of your skills and experience. Adjust the placeholders with your actual information to make it yours!
