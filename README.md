@@ -1,6 +1,6 @@
 # Julkarnine Rokey - Full Stack Developer
 
-![Julkarnine Banner](https://www.upwork.com/profile-portraits/c1kR11jQiRFfVtsQDR0dHi31d5MAVYBjAePSUtjwQZTmbwvh2behemdFTmvz7A3asI)
+![Julkarnine Banner]([https://www.upwork.com/profile-portraits/c1kR11jQiRFfVtsQDR0dHi31d5MAVYBjAePSUtjwQZTmbwvh2behemdFTmvz7A3asI](https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/414138944_2622796464553043_2234857085974733402_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=51opGLWuhN8Q7kNvgElexIR&_nc_ht=scontent.fdac146-1.fna&oh=00_AYB-cRCVx4Sg8NhcThJ-4TzfiwnJcAgj83bq3A9AFt36lA&oe=66993F6D))
 
 Hello 👋, I'm **Julkarnine Rokey**, a seasoned **Full Stack Developer** with an intense passion for coding, specializing in the MERN stack, PHP, DevOps, and many other technologies. I craft innovative, client-focused solutions—revolutionizing businesses through state-of-the-art technologies. I guide teams to success, promoting growth and achievement.
 
