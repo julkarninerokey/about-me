@@ -36,7 +36,7 @@ Explore more of my projects on [My Portfolio](https://rokey.me/projects) 🚀.
 
 ### 📈 Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rokey&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julkarninerokey&show_icons=true)
 
 ### 📕 Blog Posts
 - [React Hooks - A Deep Dive](https://rokey.me/blog/react-hooks-deep-dive)
