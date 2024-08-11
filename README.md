@@ -52,6 +52,5 @@ Thank you for visiting my profile. Let's connect and explore how we can create s
 
 ---
 
-This 📄 README.md template is brought alive using badges from *Shields.io* and dynamic functionalities from GitHub's API. For similar enhancements on your projects, please consider browsing through various tools and libraries.
 
 ✨ *Made with passion by Julkarnine Rokey*✨ .
